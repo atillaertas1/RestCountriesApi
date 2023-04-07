@@ -1,0 +1,27 @@
+.card-img-left {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    }
+
+    .col-md-4 img{
+    height: 211px;
+    width: 350px;
+    }
+
+    .col-sm-6{
+        margin-bottom: 5px;
+    }
+    
+    .col-sm-6 p{
+        font-size: 15px;
+    }
+
+    .col-md-4 .card img{
+        height: 150px;
+        width: 350px;
+    }
+
+    .container .row .for-margin{
+        margin-bottom: 40px;
+    }
